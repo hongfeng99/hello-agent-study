@@ -1,0 +1,5 @@
+*.db
+my_practice/**/memory_data/
+my_practice/**/knowledge_base/
+__pycache__/
+*.pyc
