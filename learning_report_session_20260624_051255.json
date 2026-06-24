@@ -1,0 +1,19 @@
+{
+  "session_info": {
+    "user_id": "student_8_4",
+    "session_id": "session_20260624_051255",
+    "start_time": "2026-06-24T05:13:34.236708",
+    "current_document": "hello_agents_chapter8_note.md"
+  },
+  "learning_stats": {
+    "用户ID": "student_8_4",
+    "会话ID": "session_20260624_051255",
+    "会话时长": "85 秒",
+    "当前文档": "hello_agents_chapter8_note.md",
+    "加载文档数": 1,
+    "提问次数": 3,
+    "笔记数量": 1
+  },
+  "memory_summary": "📊 记忆系统摘要\n总记忆数: 8\n当前会话: session_20260624_051339\n对话轮次: 0\n\n📋 记忆类型分布:\n  • 工作记忆: 3 条 (平均重要性: 0.60)\n  • 情景记忆: 4 条 (平均重要性: 0.75)\n  • 语义记忆: 1 条 (平均重要性: 0.80)\n\n⭐ 重要记忆 (前4条):\n  1. 用户加载了文档《hello_agents_chapter8_note.md》用于学习。 (重要性: 0.90)\n  2. 用户围绕《hello_agents_chapter8_note.md》提问：HelloAgents 的记忆系统包括哪些类... (重要性: 0.70)\n  3. 用户围绕《hello_agents_chapter8_note.md》提问：Qdrant 和 Neo4j 在系统中分别起... (重要性: 0.70)\n  4. 用户围绕《hello_agents_chapter8_note.md》提问：RAGTool 和 MemoryTool 分... (重要性: 0.70)",
+  "rag_stats": "📊 **RAG 知识库统计**\n📝 命名空间: default\n📋 集合名称: rag_8_4_assistant\n📂 存储根路径: ./knowledge_base_8_4\n📦 存储类型: qdrant\n📊 文档分块数: 0\n\n🟢 **系统状态**\n✅ RAG 管道: 正常\n✅ LLM 连接: 正常"
+}
